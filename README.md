@@ -1,8 +1,8 @@
 Readme:-
 
 Contributors:-
-Martin Martinez
-Shreyat Pandey
+Martin Martinez,
+Shreyat Pandey,
 Amogh Avinash
 
 Objective of the project:-
