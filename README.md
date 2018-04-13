@@ -1,8 +1,8 @@
 Readme:-
 Contributors:-
--Martin Martinez
--Shreyat Pandey
--Amogh Avinash
+Martin Martinez
+Shreyat Pandey
+Amogh Avinash
 
 Objective of the project:-
 -Implementing image processing,stochastic geometry and pattern recognition to identify similarities between two given city maps
