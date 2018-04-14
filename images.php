@@ -18,33 +18,33 @@ padding: 5px;
 </style>
 <h1>List of city images</h1>
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\alexandra-gauteng.png" width="100" width="100">
+<img src="/images/alexandra-gauteng.png" width="100" width="100">
 <div class="description">Alexandra-gauteng</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\bisho-easterncape.png" width="100" width="100">
+<img src="/images/bisho-easterncape.png" width="100" width="100">
 <div class="description">Easterncape</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\cape_town-western_cape.png" width="100" width="100">
+<img src="/images/cape_town-western_cape.png" width="100" width="100">
 <div class="description">Westerncape</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\durban_kwazulu-natal.png" width="100" width="100">
+<img src="/images/durban_kwazulu-natal.png" width="100" width="100">
 <div class="description">Durban</div>
 </div>
 
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\johannesburg.png" width="100" width="100">
+<img src="/images/johannesburg.png" width="100" width="100">
 <div class="description">Johannesburg</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\khayelitsha.png" width="100" width="100">
+<img src="/images/khayelitsha.png" width="100" width="100">
 <div class="description">Khayelitsha</div>
 
 </div>
@@ -52,22 +52,22 @@ padding: 5px;
 </br></br></br></br></br>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\kimberley.png" width="100" width="100">
+<img src="/images/kimberley.png" width="100" width="100">
 <div class="description">Kimberley</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\polokwane.png" width="100" width="100">
+<img src="/images/polokwane.png" width="100" width="100">
 <div class="description">Polokwane</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\port_elizabeth.png" width="100" width="100">
+<img src="/images/port_elizabeth.png" width="100" width="100">
 <div class="description">PortElizabeth</div>
 </div>
 
 <div class="floating-box">
-<img src="C:\Users\pande\Desktop\ee599pro\images\pretoria.png" width="100" width="100">
+<img src="/images/pretoria.png" width="100" width="100">
 <div class="description">Pretoria</div>
 </div>
 
