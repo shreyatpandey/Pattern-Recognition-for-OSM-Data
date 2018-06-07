@@ -10,7 +10,7 @@ do
  for (( j=i; j<${arraylength}; j++ ));
 
   do
-     for k in $(seq 0.00 22.5 22.5)
+     for k in $(seq 0.00 22.5 360)
 do
 
 echo "Rotation_angle:"$k
